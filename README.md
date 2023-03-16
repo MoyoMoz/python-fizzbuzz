@@ -1,3 +1,4 @@
+# this is a comment just to practice pushing a changed file into git
 # Python FizzBuzz
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
